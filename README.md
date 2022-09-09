@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LaminarGlow
 - 👀 I’m interested in Java, Android and Gradle
+- ✨ I study Applied Computing and am employed as an Android developer
 - 📫 How to reach me: contact@laminarglow.dev
 
 <!---
