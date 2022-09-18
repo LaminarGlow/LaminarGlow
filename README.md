@@ -1,5 +1,7 @@
 
-# Ethan Edwards
+# Laminar Glow
+
+## (a.k.a. Ethan Edwards)
 
 _Software Developer and Student Based in Dundee, Scotland_ <br>
 
