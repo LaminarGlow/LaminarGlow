@@ -5,7 +5,7 @@
 
 _Software Developer and Student Based in Dundee, Scotland_ <br>
 
-[Email](mailto:contact@laminarglow.dev) / [Website](https://www.laminarglow.dev) / [GitHub](https://github.com/LaminarGlow)
+[Email](mailto:laminarglow125@gmail.com) / [GitHub](https://github.com/LaminarGlow)
 
 ## Software Development Experience
 
